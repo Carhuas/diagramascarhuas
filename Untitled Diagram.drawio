@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T18:54:26.040Z" agent="5.0 (Linux; Android 9; moto g(6) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36" version="13.8.8" etag="x4r2KmoBEIw6gDwtFzFA" type="github"><diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">7ZtNc6IwGMc/jcft5I0Ax63b7R52Z3amhz2nECVTJA6m1fbTbyIJgtFZDwi4xYvw5M38/79I8jjO8Hy1eyzZOvslU57PEEh3M/xthhAkmOg3E3mvIiSOq8CyFKmtdAg8iQ9ug8BGX0XKN62KSspciXU7mMii4IlqxVhZym272kLm7VHXbMm9wFPCche9Cw7xPyJVmY1DGh8KfnCxzOzgEaJVwTNLXpalfC3siDOEF/tXVbxiri871U3GUrlthPDDDM9LKVV1tdrNeW7UdcK5durdfdoZvs/UKtc3UF/ui7+faQwvaawnV/JCNYc71x8K45QklEfPZBEwjr6gqoc3lr+6AY5HbAxXTx7om5RtMp7aG5aLZaGvE/1BeKkDb7xUQjv01RasRJqaHk0fa9Pzarc0MN5V/qPq3XRrGATaUH1pAIX7K1FqboQ0PRWyNJ7cF1IlmR1+b2D9YTaqlC81B+aDL2ShLLaoqq+Y7Q4HJ3W0yptp8F0jZHV95HLFVfmuq9jSILaLyK4hCuz99sCjgyFrkIiIDTK7CJZ11wcj9YX18kJf8eRrR76G7rtwFL6SydeOfIUAjcnY4NMbG4NujI1g21ct9UW+0ghewVf66X2FQUcrlkLcMhZHQy7YcDK2K2MjGB0ZGwxobDQZ25WxEJBjZ4dcsrHnrG3hH7MO6hmttplQ/GnNElO61R61T2E1A9BTGp1QugNhydGmFFNfVxicEPYquro0gC+sv3RGLmwIRiUsPCcsvjVhYzwqYf28h21Cbk1YQlFL2AjSIYX1Ew+2SXBrwtLQE/YONF5wSJn9PIBtQm9N5hiMit8LzuG6C7He8H+L2Va+f2khDGFL24ACX9tT+6862K24/mH44c1M79QO7D/fY++zHZksxYeuw3LbRc6eef5bboStlfOFaszq51FxPbsOYAkwaLFCTnzBnUQFXgUV/3jtUPl0x7HRoRJiPCZU/AO7Q8XfJU+o9ItKTMmYUPEzAPUDyP+ddmKl5yeQ27xaVkLg7wT7YwX5SY2alWm3MjQrx3magVnx8zQ1K9N2ZWhWYgLGxIqfenKs+LmnCZWeH0Hh0SHowl+iroSKn0xzqPjZtAmVnp9AIR4TKn5C0KHiZwQnVPpFBQJAxsSKn+N0rIQTK0M/gYKwhQrFg6JyPmMbTagM/QSiYEyonM/YxhMqQx+BYtgbKvr28HeIfVnjXyf44S8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-31T19:11:54.773Z" agent="5.0 (Linux; Android 9; moto g(6) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36" etag="-Stsxr82f6U5SO-AfpId" version="13.8.8" type="github">
+  <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
+    <mxGraphModel dx="652" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="279d4c6e8b4f5ae2-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
+          <mxGeometry x="594" y="604" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
+          <mxGeometry x="1029" y="604" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="819" y="279" width="20" height="681" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
+          <mxGeometry x="613" y="384" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
+          <mxGeometry x="1048" y="384" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-9" value="SISTEMAS Y EQUIPO" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="500" y="340" width="149" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-11" value="PERSONA" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="939" y="364" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-12" value="MEDIO AMBIENTE" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="462" y="816" width="150" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-14" value="MÉTODO" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="902" y="816" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-15" value="Demora en la atención al usuario" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1171" y="560" width="149" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-16" value="Falla de los sistemas" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="530" y="401" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-18" value="Impuntualidad" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="964" y="401" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-19" value="Exceso de pacientes" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="506" y="706" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-21" value="Falta de protocolo&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="940" y="706" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-24" value="Falta de capacitación" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1004" y="485" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-25" value="Incomodidad por espera" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="550" y="635" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-27" value="Pasos innecesarios" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="991" y="635" width="20" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
